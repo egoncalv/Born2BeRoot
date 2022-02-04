@@ -1,6 +1,11 @@
-# Born2BeRoot
-### This projects aims to introduce the world of virtualization.
-### It consists in creating a Virtual Machine in VirtualBox (or UTM) under specific instructions. At the end of this project we should be fully comfortable with the concept of Virtualization, as well as dealing with command-line based systems, partitioning memory with LVM, setting up SSH ports, MACs, Firewalls, among many other important concepts.
+<h1 align=center>
+Born2BeRoot
+</h1>
+
+<p align=center>
+This projects aims to introduce the world of virtualization.
+It consists in creating a Virtual Machine in VirtualBox (or UTM) under specific instructions. At the end of this project we should be fully comfortable with the concept of Virtualization, as well as dealing with command-line based systems, partitioning memory with LVM, setting up SSH ports, MACs, Firewalls, among many other important concepts.
+</p>
 
 ### 1. Operating System
  
