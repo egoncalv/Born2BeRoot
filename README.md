@@ -12,8 +12,10 @@
 </h3>
 <p align=center>
  We could choose between two operating systems: Debian or CentOs. I chose *Debian* because it is more user-friendly and has a wider community than CentOs, that is commonly used by big enterprises as it is supported by Red Hat.
-</p
+</p>
  
+ 
+
 <h3 align=center>
 2. LVM Partitioning
 </h3>
