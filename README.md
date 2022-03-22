@@ -1,6 +1,8 @@
 <h1 align=center>
  Born2BeRoot
 </h1>
+<img width="204" alt="image" src="https://user-images.githubusercontent.com/37090738/159490276-0871111a-ad28-44cb-8b99-5129c80eaaa3.png">
+
 
 <p align=center>
  This projects aims to introduce the world of virtualization.
